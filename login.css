@@ -1,0 +1,20 @@
+.main
+{
+    margin:250px auto;
+    width:20%;
+    padding:20px;
+    background-color:white;
+}
+
+label{
+    text-align: right;
+    display: inline-block;
+    margin: 8px;
+    width: 60px;
+}
+
+.submit{
+    margin-left: 115px;
+}
+
+
